@@ -1,9 +1,14 @@
 ### Hi there 👋, my name is Yixuan Zhang
 #### I am Data Science student at Halıcıoğlu Data Science Institute – UC San Diego
 Skills:
+
 ● Programming Languages: Python, SQL, Java, R, JavaScript, C
+
 ● Databases: PostgreSQL, MongoDB, Cassandra, Neo4j, Redis
+
 ● Tools & Technologies: Spark, MapReduce/Hadoop, Dask, AWS, Docker, HTML5, CSS, GitHub
+
+
 
 
 
