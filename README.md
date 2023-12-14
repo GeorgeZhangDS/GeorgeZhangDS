@@ -13,6 +13,7 @@ Skills:
 
 
 - 🌱 I’m currently learning data engineering stuff 
-- 📫 How to reach me: yiz119@ucsd.edu 
+- 📫 How to reach me: yiz119@ucsd.edu
+- 💻 My Resume[https://drive.google.com/file/d/1vlPJPiDw377H13RuarNHmSXS64aTPYbH/view?usp=sharing]
 - 😄 Pronouns: yí xuān Zhāng 
 - ⚡ Fun fact: Why are computers bad at cooking? Because they're always dealing with too many 'cookies'. 
