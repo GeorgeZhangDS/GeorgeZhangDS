@@ -1,18 +1,19 @@
 ### Hi there 👋, my name is Yixuan Zhang
-#### I am Data Science student at Halıcıoğlu Data Science Institute – UC San Diego
-Skills:
+#### I am a Computer Science & Engineering M.S. student at UC San Diego
 
-● Programming Languages: Python, SQL, Java, R, JavaScript, C
+I previously completed my B.S. in Data Science at UC San Diego with Phi Beta Kappa honors.  
+My background combines software engineering, data science, and applied AI.
 
-● Databases: PostgreSQL, MongoDB, Cassandra, Neo4j, Redis
+**Skills:**
 
-● Tools & Technologies: Spark, MapReduce/Hadoop, Dask, AWS, Docker, HTML5, CSS, GitHub
+● **Programming Languages:** Python, Java, TypeScript, JavaScript, SQL  
+● **Frontend:** React, Redux, TailwindCSS, Chrome Extension APIs  
+● **Backend / Frameworks:** FastAPI, Django, Spring Boot, RESTful API  
+● **Databases:** PostgreSQL, MySQL, MongoDB, Redis, DynamoDB  
+● **Machine Learning / AI:** PyTorch, Hugging Face, LangChain, LangGraph, Scikit-learn  
+● **Cloud & Tools:** AWS, Docker, Git, Linux, Postman, Unit Testing (PyTest, JUnit, Jest)
 
-
-
-
-
-- 🌱 I’m currently learning data engineering stuff 
-- 📫 How to reach me: yiz119@ucsd.edu
-- 😄 Pronouns: yí xuān Zhāng 
+- 💼 Previous internships at **Amazon (Software Development Engineer Intern)**, **Meituan (Data Science Intern)**, and **Deloitte (Technology Consultant Intern)**
+- 📫 How to reach me: **zhang.hireme@gmail.com**
+- 😄 Pronunciation: *yí-xuān Zhāng*
 - ⚡ Fun fact: Why are computers bad at cooking? Because they're always dealing with too many 'cookies'. 
